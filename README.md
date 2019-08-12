@@ -1,4 +1,4 @@
-# sentiment_analysis_twitter
+# sentiment_analysis
 Twitter sentiment analysis for any topic with tweepy library
 
 Sentiment analysis is used to analyse text from a social medias like twitter, customer reviews from e-commerece websites like amazon to predict the sentiment of the tweets or product reviews. 
